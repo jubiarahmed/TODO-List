@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Microsoft VS\\TODO List\\TODO List.csproj": {}
+    "F:\\Microsoft VS\\TODO-List\\TODO List.csproj": {}
   },
   "projects": {
-    "F:\\Microsoft VS\\TODO List\\TODO List.csproj": {
+    "F:\\Microsoft VS\\TODO-List\\TODO List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Microsoft VS\\TODO List\\TODO List.csproj",
+        "projectUniqueName": "F:\\Microsoft VS\\TODO-List\\TODO List.csproj",
         "projectName": "TODO List",
-        "projectPath": "F:\\Microsoft VS\\TODO List\\TODO List.csproj",
+        "projectPath": "F:\\Microsoft VS\\TODO-List\\TODO List.csproj",
         "packagesPath": "C:\\Users\\mdjub\\.nuget\\packages\\",
-        "outputPath": "F:\\Microsoft VS\\TODO List\\obj\\",
+        "outputPath": "F:\\Microsoft VS\\TODO-List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdjub\\AppData\\Roaming\\NuGet\\NuGet.Config",

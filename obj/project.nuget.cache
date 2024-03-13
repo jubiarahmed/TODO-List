@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNBlMyd6fK926+nxDinKPz35e4oN34pvZACKma57RZ/wkkLHaU1ufrD2/I6yRdGaPWhjIYinSLaTiIr0Nvze6Q==",
+  "dgSpecHash": "txVOmAELnjCW386a47Y68jA2bjiNGgMJDT2Ftg5Ko7BdDR2GoLwtiSkJXep00LM3FauVVfOCQCh7mL0a3sjmvA==",
   "success": true,
-  "projectFilePath": "F:\\Microsoft VS\\TODO List\\TODO List.csproj",
+  "projectFilePath": "F:\\Microsoft VS\\TODO-List\\TODO List.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
